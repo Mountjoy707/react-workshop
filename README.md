@@ -14,5 +14,6 @@
 <a href=https://github.com/30-seconds/30-seconds-of-code><h3>30 Seconds of Code</a></h3>
 <p>A curated collection of useful JavaScript snippets.</p>
   <br>
-<a href=https://reactjs.org/community/support.html><h3>React Community</a><h3>
+<a href=https://reactjs.org/community/support.html><h3>React Support</a></h3>
 <p>The offical React Community Support page.</p>
+   <br>
