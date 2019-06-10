@@ -5,8 +5,8 @@
 <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript><h3>Re-Introduction to JavaScript</a></h3>
 <p>A complete guide to the building blocks of JavaScript.</p>
   <br>
-<a href=https://reactjs.org/docs/introducing-jsx.html><h3>Intro to JSX</a></h3>
-<p>A guide to the JSX JavaScript syntax extension, recommended for use with React.</p>
+<a href=https://reactjs.org/docs/hello-world.html><h3>Official React Guide</a></h3>
+<p>Ultimate chapter by chapter React guide. Complimentary to the tic-tac-toe tutorial.</p>
   <br>
 <a href=https://www.youtube.com/embed/DLX62G4lc44><h3>5 Hour React Bootcamp</a></h3>
 <p>An in depth 5 hour video on getting started with React.</p>
