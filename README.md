@@ -17,3 +17,5 @@
 <a href=https://reactjs.org/community/support.html><h3>React Support</a></h3>
 <p>The offical React Community Support page.</p>
    <br>
+<a href=https://www.freeformatter.com/json-formatter.html><h3>JSON Formatter</a></h3>
+<p>An automatic formatter from JavaScript to JSON.</p>
